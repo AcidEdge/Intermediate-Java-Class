@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "markwitt_module_7.Markwitt_module_7",
+            "args": "--module-path /Users/mwitt/Downloads/JavaFX/javafx-sdk-19.0.2.1/lib/ --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "markwitt_module_7.Markwitt_module_7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Markwitt_module_7",
+            "request": "launch",
+            "mainClass": "markwitt_module_7.Markwitt_module_7",
+            "projectName": "markwitt_module_7_7eae81c"
+        }
+    ]
+}
